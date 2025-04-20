@@ -36,6 +36,9 @@ Publications
 <strong>Note</strong>: * indicates the corresponding author.
 
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
+  <br/>
+  Xiang Geng, Zhejian Lai, Jiajun Chen, Hao Yang, Shujian Huang
+  <br/>
   ( [arxiv](https://arxiv.org/pdf/2502.19941) )
 * Why Not Transform Chat Large Language Models to Non-English
   ( [arxiv](https://arxiv.org/pdf/2405.13923) )
