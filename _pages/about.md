@@ -53,7 +53,7 @@ Publications
   WMT2023 Shared Task. ([arxiv:2309.13230](https://arxiv.org/pdf/2309.13230), [code](https://github.com/NJUNLP/njuqe))
 * Improved pseudo data for machine translation quality estimation with constrained beam search, EMNLP 2023 Long Paper
   <br/>
-  Xiang Geng, Yu Zhang, **Zhejian Lai**, Shuaijie She, Wei Zou, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
+  Xiang Geng & Yu Zhang, **Zhejian Lai**, Shuaijie She, Wei Zou, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
   <br/>
   EMNLP 2023. ([2023-emnlp-main:764](https://aclanthology.org/2023.emnlp-main.764.pdf), [code](https://github.com/NJUNLP/njuqe))
 
