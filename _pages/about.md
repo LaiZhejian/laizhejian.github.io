@@ -37,14 +37,23 @@ Publications
 
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
   <br/>
-  Xiang Geng, Zhejian Lai, Jiajun Chen, Hao Yang, Shujian Huang
+  Xiang Geng, **Zhejian Lai**, Jiajun Chen, Hao Yang, Shujian Huang*
   <br/>
-  ( [arxiv](https://arxiv.org/pdf/2502.19941) )
+  preprint. ([arxiv:2502.19941](https://arxiv.org/pdf/2502.19941))
 * Why Not Transform Chat Large Language Models to Non-English
-  ( [arxiv](https://arxiv.org/pdf/2405.13923) )
+  <br/>
+  Xiang Geng, Ming Zhu, Jiahuan Li, **Zhejian Lai**, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, Shujian Huang*
+  <br/>
+  preprint. ([arxiv:2405.13923](https://arxiv.org/pdf/2405.13923))
 * Unify word-level and span-level tasks: NJUNLP’s Participation for the WMT2023 Quality Estimation Shared Task
-  ( [PDF](https://aclanthology.org/2023.wmt-1.71.pdf)&ensp;[Code](https://github.com/NJUNLP/njuqe) )
+  <br/>
+  Xiang Geng, **Zhejian Lai**, Yu Zhang, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
+  <br/>
+  WMT2023 Shared Task. ([arxiv:2309.13230](https://arxiv.org/pdf/2309.13230), [code](https://github.com/NJUNLP/njuqe))
 * Improved pseudo data for machine translation quality estimation with constrained beam search, EMNLP 2023 Long Paper
-  ( [PDF](https://aclanthology.org/2023.emnlp-main.764.pdf)&ensp;[Code](https://github.com/NJUNLP/njuqe) )
+  <br/>
+  Xiang Geng, Yu Zhang, **Zhejian Lai**, Shuaijie She, Wei Zou, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
+  <br/>
+  EMNLP 2023. ([2023-emnlp-main:764](https://aclanthology.org/2023.emnlp-main.764.pdf), [code](https://github.com/NJUNLP/njuqe))
 
 [Click here for details](http://resume.laizj.fun/publications/)
