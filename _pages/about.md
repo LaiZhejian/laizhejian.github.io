@@ -18,7 +18,8 @@ Feel free to follow me on my social media platforms listed in the sidebar. If yo
 Research Interests
 ======
 * Machine Translation, with a particular focus on Quality Estimation
-* Large Language Models(LLMs) inference
+* Synthetic Data
+* Large Language Models(LLMs) Inference
 * Multilingual LLMs
 
 Awards & Honors
@@ -37,7 +38,7 @@ Publications
 
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
   <br/>
-  Xiang Geng, **Zhejian Lai**, Jiajun Chen, Hao Yang, Shujian Huang*
+  **Zhejian Lai** & Xiang Geng, Jiajun Chen, Hao Yang, Shujian Huang*
   <br/>
   preprint. ([arxiv:2502.19941](https://arxiv.org/pdf/2502.19941))
 * Why Not Transform Chat Large Language Models to Non-English

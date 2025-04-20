@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhejian Lai"
   pronouns         : # example: "she/her"  
-  bio              : "🎓 Master's student specializing in Natural Language Processing (NLP). 🔍 Research interests include large language models (LLMs) inference, synthetic data, and multilingual LLMs."
+  bio              : "🎓 Master's student specializing in Natural Language Processing (NLP).<br/>🔍 Research interests include synthetic data, LLMs inference, and multilingual LLMs."
   location         : "Nanjing, China"
   employer         : "Nanjing University"
   uri              : "https://www.cnblogs.com/DreamW1ngs"
