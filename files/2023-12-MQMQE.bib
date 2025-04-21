@@ -1,0 +1,23 @@
+@inproceedings{geng-etal-2023-unify,
+    title = "Unify Word-level and Span-level Tasks: {NJUNLP}`s Participation for the {WMT}2023 Quality Estimation Shared Task",
+    author = "Geng, Xiang  and
+      Lai, Zhejian  and
+      Zhang, Yu  and
+      Tao, Shimin  and
+      Yang, Hao  and
+      Chen, Jiajun  and
+      Huang, Shujian",
+    editor = "Koehn, Philipp  and
+      Haddow, Barry  and
+      Kocmi, Tom  and
+      Monz, Christof",
+    booktitle = "Proceedings of the Eighth Conference on Machine Translation",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.wmt-1.71/",
+    doi = "10.18653/v1/2023.wmt-1.71",
+    pages = "829--834",
+    abstract = "We introduce the submissions of the NJUNLP team to the WMT 2023 Quality Estimation (QE) shared task. Our team submitted predictions for the English-German language pair on all two sub-tasks: (i) sentence- and word-level quality prediction; and (ii) fine-grained error span detection. This year, we further explore pseudo data methods for QE based on NJUQE framework (https://github.com/NJUNLP/njuqe). We generate pseudo MQM data using parallel data from the WMT translation task. We pre-train the XLMR large model on pseudo QE data, then fine-tune it on real QE data. At both stages, we jointly learn sentence-level scores and word-level tags. Empirically, we conduct experiments to find the key hyper-parameters that improve the performance. Technically, we propose a simple method that covert the word-level outputs to fine-grained error span results. Overall, our models achieved the best results in English-German for both word-level and fine-grained error span detection sub-tasks by a considerable margin."
+}
