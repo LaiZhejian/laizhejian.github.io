@@ -16,7 +16,7 @@ To address this issue, we introduce recovery knowledge distillation (RKD), which
 Experimental results indicate that TransLLM outperforms baseline models across various languages and LLMs while demonstrating adaptability in multilingual settings and generalizability beyond its training tasks.
 Our analysis elucidates the mechanism by which RKD, in conjunction with LoRA, mitigates catastrophic forgetting.'
 paperurl: 'https://arxiv.org/pdf/2405.13923'
-bibtexurl: 'http://laizhejian.github.io/files/2025-02-transLLM.bib'
+bibtexurl: '/files/2025-02-transLLM.bib'
 citation: 'Xiang Geng, Ming Zhu, Jiahuan Li, Zhejian Lai, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, and Shujian Huang. 2024. Why Not Transform Chat Large Language Models to Non-English? <i>arXiv preprint arXiv:2405.13923</i>.'
 ---
 [Download paper here](https://arxiv.org/pdf/2405.13923)
