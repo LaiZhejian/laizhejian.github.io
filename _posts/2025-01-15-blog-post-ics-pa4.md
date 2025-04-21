@@ -1,6 +1,6 @@
 ---
 title: 'NJU ICS2024 PA 作业心得（四）'
-date: 2024-12-24
+date: 2025-01-15
 permalink: /posts/2025/01/15/ics-pa4/
 tags:
   - ICS
