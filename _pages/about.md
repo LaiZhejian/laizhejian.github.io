@@ -40,7 +40,7 @@ Publications
   <br/>
   **Zhejian Lai** & Xiang Geng, Jiajun Chen, Hao Yang, Shujian Huang*
   <br/>
-  preprint. ([arxiv:2502.19941](https://arxiv.org/pdf/2502.19941))
+  ACL 2025. ([arxiv:2502.19941](https://arxiv.org/pdf/2502.19941))
 * Why Not Transform Chat Large Language Models to Non-English
   <br/>
   Xiang Geng, Ming Zhu, Jiahuan Li, **Zhejian Lai**, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, Shujian Huang*
