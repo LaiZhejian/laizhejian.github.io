@@ -38,7 +38,7 @@ Publications
 
 * How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective
   <br/>
-  **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang, Jiajun Chen
+  **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang*, Jiajun Chen
   <br/>
   preprint. ([arXiv:2505.21505](https://arxiv.org/pdf/2505.21505))
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
@@ -55,7 +55,7 @@ Publications
   <br/>
   Xiang Geng, **Zhejian Lai**, Yu Zhang, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
   <br/>
-  WMT2023 Shared Task. ([arxiv:2309.13230](https://arxiv.org/pdf/2309.13230), [code](https://github.com/NJUNLP/njuqe))
+  WMT2023 Shared Task. ([2023-wmt:1.71](https://aclanthology.org/2023.wmt-1.71.pdf), [code](https://github.com/NJUNLP/njuqe))
 * Improved pseudo data for machine translation quality estimation with constrained beam search, EMNLP 2023 Long Paper
   <br/>
   Xiang Geng & Yu Zhang, **Zhejian Lai**, Shuaijie She, Wei Zou, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
