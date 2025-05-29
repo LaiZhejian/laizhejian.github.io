@@ -36,11 +36,16 @@ Publications
 ======
 <strong>Note</strong>: * indicates the corresponding author.
 
+* How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective
+  <br/>
+  **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang, Jiajun Chen
+  <br/>
+  preprint. ([arXiv:2505.21505](https://arxiv.org/pdf/2505.21505))
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
   <br/>
   **Zhejian Lai** & Xiang Geng, Jiajun Chen, Hao Yang, Shujian Huang*
   <br/>
-  ACL 2025. ([arxiv:2502.19941](https://arxiv.org/pdf/2502.19941))
+  ACL 2025. ([arxiv:2502.19941](https://arxiv.org/pdf/2502.19941), [code](https://github.com/NJUNLP/njuqe))
 * Why Not Transform Chat Large Language Models to Non-English
   <br/>
   Xiang Geng, Ming Zhu, Jiahuan Li, **Zhejian Lai**, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, Shujian Huang*

@@ -19,6 +19,4 @@ paperurl: 'https://arxiv.org/pdf/2405.13923'
 bibtexurl: '/files/2025-02-transLLM.bib'
 citation: 'Xiang Geng, Ming Zhu, Jiahuan Li, Zhejian Lai, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, and Shujian Huang. 2024. Why Not Transform Chat Large Language Models to Non-English? <i>arXiv preprint arXiv:2405.13923</i>.'
 ---
-[Download paper here](https://arxiv.org/pdf/2405.13923)
-
-Recommended citation: Xiang Geng, Ming Zhu, Jiahuan Li, Zhejian Lai, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, and Shujian Huang. 2024. Why Not Transform Chat Large Language Models to Non-English? <i>arXiv preprint arXiv:2405.13923</i>.
+[Download paper here](https://arxiv.org/pdf/2505.21505)
