@@ -1,7 +1,7 @@
 ---
 title: "Why Not Transform Chat Large Language Models to Non-English?"
 collection: publications
-category: preprint    preprint
+category: preprint
 permalink: /publication/2025-02-transLLM
 date: 2025-02-01
 venue: 'Preprint'

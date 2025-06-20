@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<div style="height: 90vh"><embed src="https://laizhejian.github.io/files/cv.pdf" type="application/pdf" width="100%" height="100%"> </div>
+<div style="height: 90vh"><embed src="/files/cv.pdf" type="application/pdf" width="100%" height="100%"> </div>

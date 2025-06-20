@@ -6,7 +6,7 @@ tags:
   - ICS
 ---
 
-# NJU ICS2024 PA 作业心得（二）
+> 在实现和调试 RISC-V 架构下的 NEMU 仿真器和 AM 运行环境过程中可能遇到的问题及其解决方案，包括指令解析、输入输出、ELF 文件解析、klib 库、ftrace/mtrace/itrace/difftest 的实现，以及与硬件模拟相关的设备驱动。
 
 ## RTFSC问题处理
 
