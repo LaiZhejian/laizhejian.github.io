@@ -13,7 +13,7 @@ I received my B.Sc. degree from [Dalian University of Technology](https://www.dl
 
 Feel free to follow me on my social media platforms listed in the sidebar. If you're interested in <strong>collaborating</strong>, don’t hesitate to reach out!
 
-[中文简历](http://resume.laizj.fun/cv/)&ensp;[CV](http://resume.laizj.fun/cv/)&ensp;(Please contect me directly for the lastest version)
+[CV](/cv#cv_en)&ensp;[中文简历](/cv#cv_zh)&ensp;(Please contect me freely for the lastest version)
 
 Research Interests
 ======
@@ -24,13 +24,14 @@ Research Interests
 
 Awards & Honors
 ======
+* First Place, WMT2023 Quality Estimation Shared Tasks in En-De, 11.2023
 * First-class Academic Scholarship, Nanjing University, 11.2023
 * National Scholarship, Dalian University of Technology, 12.2021 & 12.2022
 * Second Prize in individuals, China Collegiate Computing Contest, 5.2021
 * Honorable Mention, ICPC EC-Final, 4.2021
-* Second Prize, Chinese Mathematics Competitions, 12.2020
-* Silver Medal, China Collegiate Algorithm Design & Programming Challenge Contest, 11.2020
-* Gold Medal, Liaoning Province Collegiate Programming Contest, 10.2020
+* Second Prize, 12th Chinese Mathematics Competition for College Students (Non-mathematical Background) , 12.2020
+* Silver Medal, 2nd China Collegiate Algorithm Design & Programming Challenge Contest (Autumn Competition) , 11.2020
+* Gold Medal, 1st Liaoning Province Collegiate Programming Contest, 10.2020
 
 Publications
 ======
