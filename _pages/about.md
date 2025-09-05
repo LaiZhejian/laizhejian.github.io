@@ -17,10 +17,9 @@ Feel free to follow me on my social media platforms listed in the sidebar. If yo
 
 Research Interests
 ======
-* Machine Translation, with a particular focus on Quality Estimation
 * Synthetic Data
-* Large Language Models(LLMs) Inference
-* Multilingual LLMs
+* Reasoning LLMs
+* Multilingual LLMs and Machine Translation, with a particular focus on Quality Estimation
 
 Awards & Honors
 ======
