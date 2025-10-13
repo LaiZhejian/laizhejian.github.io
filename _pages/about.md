@@ -18,7 +18,7 @@ Feel free to follow me on my social media platforms listed in the sidebar. If yo
 Research Interests
 ======
 * Synthetic Data
-* Reasoning LLMs
+* Mathematical Reasoning
 * Multilingual LLMs and Machine Translation, with a particular focus on Quality Estimation
 
 Awards & Honors
@@ -36,6 +36,11 @@ Publications
 ======
 <strong>Note</strong>: * indicates the corresponding author.
 
+* Making Mathematical Reasoning Adaptive
+  <br/>
+  **Zhejian Lai** & Xiang Geng, Zhijun Wang, Yang Bai, Jiahuan Li, Rongxiang Weng, Jingang Wang, Xuezhi Cao, Xunliang Cai, Shujian Huang*
+  <br/>
+  preprint. ([arXiv:2505.21505](https://arxiv.org/pdf/2505.21505), [code](https://github.com/NJUNLP/AdaR), [project](https://huggingface.co/collections/DreamW1ngs/adar-68e648e59b2c9aec1208b5ef))
 * How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective
   <br/>
   **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang*, Jiajun Chen
@@ -50,7 +55,7 @@ Publications
   <br/>
   Xiang Geng, Ming Zhu, Jiahuan Li, **Zhejian Lai**, Wei Zou, Shuaijie She, Jiaxin Guo, Xiaofeng Zhao, Yinglu Li, Yuang Li, Chang Su, Yanqing Zhao, Xinglin Lyu, Min Zhang, Jiajun Chen, Hao Yang, Shujian Huang*
   <br/>
-  preprint. ([arxiv:2405.13923](https://arxiv.org/pdf/2405.13923))
+  Frontiers of Computer Science. ([arxiv:2405.13923](https://arxiv.org/pdf/2405.13923))
 * Unify word-level and span-level tasks: NJUNLP’s Participation for the WMT2023 Quality Estimation Shared Task
   <br/>
   Xiang Geng, **Zhejian Lai**, Yu Zhang, Shimin Tao, Hao Yang, Jiajun Chen, Shujian Huang*
@@ -62,4 +67,4 @@ Publications
   <br/>
   EMNLP 2023. ([2023-emnlp-main:764](https://aclanthology.org/2023.emnlp-main.764.pdf), [code](https://github.com/NJUNLP/njuqe))
 
-[Click here for details](http://resume.laizj.fun/publications/)
+[Click here for details](./publications/)

@@ -1,6 +1,22 @@
-@inproceedings{geng2025dcsqe,
-  title={Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation}, 
-  author={Xiang Geng and Zhejian Lai and Jiajun Chen and Hao Yang and Shujian Huang},
-  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
-  year={2025}
+@inproceedings{geng-etal-2025-alleviating,
+    title = "Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation",
+    author = "Geng, Xiang  and
+      Lai, Zhejian  and
+      Chen, Jiajun  and
+      Yang, Hao  and
+      Huang, Shujian",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.373/",
+    doi = "10.18653/v1/2025.acl-long.373",
+    pages = "7546--7560",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Quality Estimation (QE) models evaluate the quality of machine translations without reference translations, serving as the reward models for the translation task.Due to the data scarcity, synthetic data generation has emerged as a promising solution.However, synthetic QE data often suffers from distribution shift, which can manifest as discrepancies between pseudo and real translations, or in pseudo labels that do not align with human preferences.To tackle this issue, we introduce DCSQE, a novel framework for alleviating distribution shift in synthetic QE data.To reduce the difference between pseudo and real translations, we employ the constrained beam search algorithm and enhance translation diversity through the use of distinct generation models.DCSQE uses references{---}i.e., translation supervision signals{---}to guide both the generation and annotation processes, enhancing the quality of token-level labels.DCSQE further identifies the shortest phrase covering consecutive error tokens, mimicking human annotation behavior, to assign the final phrase-level labels.Specially, we underscore that the translation model can not annotate translations of itself accurately.Extensive experiments demonstrate that DCSQE outperforms SOTA baselines like CometKiwi in both supervised and unsupervised settings.Further analysis offers insights into synthetic data generation that could benefit reward models for other tasks.The code is available at https://github.com/NJUNLP/njuqe."
 }

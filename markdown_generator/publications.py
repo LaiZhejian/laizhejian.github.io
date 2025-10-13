@@ -64,8 +64,8 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    md_filename = str(item.pub_date[:7]) + "-" + item.url_slug + ".md"
+    html_filename = str(item.pub_date[:7]) + "-" + item.url_slug
     year = item.pub_date[:4]
     
     ## YAML variables
@@ -73,7 +73,9 @@ for row, item in publications.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
 
     # TODO Update to use the category assigned in the TSV file
-    md += """collection: manuscripts"""
+    md += f"""collection: {html_escape(item.collection)}"""
+    
+    md += f"""\ncategory: {html_escape(item.category)}"""
     
     md += """\npermalink: /publication/""" + html_filename
     
@@ -87,19 +89,21 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
+    md += "\nbibtexurl: '" + html_escape(item.bibtexurl) + "'"
+    
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    # if len(str(item.paper_url)) > 5:
+    #     md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    # md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
