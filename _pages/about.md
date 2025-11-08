@@ -45,7 +45,7 @@ Publications
   <br/>
   **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang*, Jiajun Chen
   <br/>
-  preprint. ([arXiv:2505.21505](https://arxiv.org/pdf/2505.21505))
+  AAAI 2026. **Oral** ([arXiv:2505.21505](https://arxiv.org/pdf/2505.21505))
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
   <br/>
   **Zhejian Lai** & Xiang Geng, Jiajun Chen, Hao Yang, Shujian Huang*
