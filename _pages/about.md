@@ -40,7 +40,7 @@ Publications
   <br/>
   **Zhejian Lai** & Xiang Geng, Zhijun Wang, Yang Bai, Jiahuan Li, Rongxiang Weng, Jingang Wang, Xuezhi Cao, Xunliang Cai, Shujian Huang*
   <br/>
-  preprint. ([arXiv:2505.21505](https://arxiv.org/pdf/2505.21505), [code](https://github.com/NJUNLP/AdaR), [project](https://huggingface.co/collections/DreamW1ngs/adar-68e648e59b2c9aec1208b5ef))
+  preprint. ([arXiv:2510.04617](https://arxiv.org/pdf/2510.04617), [code](https://github.com/NJUNLP/AdaR), [project](https://huggingface.co/collections/DreamW1ngs/adar-68e648e59b2c9aec1208b5ef))
 * How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective
   <br/>
   **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang*, Jiajun Chen
