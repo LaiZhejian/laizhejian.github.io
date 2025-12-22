@@ -28,6 +28,7 @@ git submodule update --init --recursive # 如果上一步没使用--recursive需
   ```shell
   experimental-features = nix-command flakes
   substituters = https://mirrors.ustc.edu.cn/nix-channels/store https://cache.nixos.org/
+  trusted-users = root dream
   ```
 
 * For Mac
