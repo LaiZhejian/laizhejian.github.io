@@ -52,7 +52,7 @@ specific指代具体某个nix配置，platform指代宏观的如darwin（mac自�
 1. 初始化`chezmoi init https://github.com/LaiZhejian/dotfiles` 
 
    其中的文件`.chezmoi.toml.tmpl`允许使用明文加密和解析
-
+  {% raw %}
    ```toml
    {{ $passphrase := promptStringOnce . "passphrase" "passphrase" -}}
    
@@ -64,6 +64,7 @@ specific指代具体某个nix配置，platform指代宏观的如darwin（mac自�
        args = ["--batch", "--passphrase", {{ $passphrase | quote }}, "--no-symkey-cache", "--quiet"]
    
    ```
+   {% endraw %}
 
 2. `chezmoi apply`解密配置细腻下
 3. `chezmoi add [--encrypt]`添加被管理文件，可选加密
