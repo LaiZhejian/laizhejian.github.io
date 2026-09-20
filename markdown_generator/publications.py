@@ -83,6 +83,8 @@ for row, item in publications.iterrows():
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
+    if pd.notna(item.get("publication_year")):
+        md += "\npublication_year: " + str(int(item.publication_year))
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     

@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Sc. degree from [Dalian University of Technology](https://www.dlut.edu.cn/) in 2023, and during my undergraduate years, I actively participated in several <strong>Programming Contest</strong>, including ICPC and CCPC. Furthermore, I was honored to be admitted to pursue my M.Sc. degree at [School of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/) without entrance examination. Currently, I am a member of the [NJUNLP Group](http://nlp.nju.edu.cn/homepage/), working under the supervision of Prof. [Shujian Huang](http://nlp.nju.edu.cn/huangsj/).
+I currently work at <strong>ByteDance</strong>, conducting research on **[LLM4Rec (Large Language Models for Recommendation)](https://arxiv.org/abs/2305.19860)**.
 
-<div style="color: red; font-size: 1.5em; font-weight: bold; line-height: 1.4; margin-top: 20px; margin-bottom: 20px">   Looking for Ph.D. positions for Fall 2026!<br>   If you have any opportunities,<br>   please feel free to contact me. </div>
+I received my M.Sc. degree from the [School of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), where I was a member of the [NJUNLP Group](http://nlp.nju.edu.cn/homepage/) under the supervision of Prof. [Shujian Huang](http://nlp.nju.edu.cn/huangsj/). Prior to that, I received my B.Sc. degree from [Dalian University of Technology](https://www.dlut.edu.cn/) in 2023. During my undergraduate years, I actively participated in <strong>programming contests</strong>, including ICPC and CCPC.
+
+<strong>We are hiring!</strong> If you are interested in LLM4Rec, we welcome you to join our team. Please feel free to reach out! [View our team recruitment poster (招聘附件)]({{ '/files/douyin-gr-recruitment.jpg' | relative_url }}).
+
+<!-- <div style="color: red; font-size: 1.5em; font-weight: bold; line-height: 1.4; margin-top: 20px; margin-bottom: 20px">   Looking for Ph.D. positions for Fall 2026!<br>   If you have any opportunities,<br>   please feel free to contact me. </div> -->
 
 Feel free to follow me on my social media platforms listed in the sidebar. If you're interested in <strong>collaborating</strong>, don’t hesitate to reach out!
 
@@ -17,6 +21,7 @@ Feel free to follow me on my social media platforms listed in the sidebar. If yo
 
 Research Interests
 ======
+* Large Language Models for Recommendation (LLM4Rec) ([Survey](https://arxiv.org/abs/2305.19860))
 * Synthetic Data
 * Mathematical Reasoning
 * Multilingual LLMs and Machine Translation, with a particular focus on Quality Estimation
@@ -36,11 +41,11 @@ Publications
 ======
 <strong>Note</strong>: * indicates the corresponding author.
 
-* Making Mathematical Reasoning Adaptive
+* AdaR: A Framework for Equipping LLMs with Adaptive Reasoning
   <br/>
   **Zhejian Lai** & Xiang Geng, Zhijun Wang, Yang Bai, Jiahuan Li, Rongxiang Weng, Jingang Wang, Xuezhi Cao, Xunliang Cai, Shujian Huang*
   <br/>
-  preprint. ([arXiv:2510.04617](https://arxiv.org/pdf/2510.04617), [code](https://github.com/NJUNLP/AdaR), [project](https://huggingface.co/collections/DreamW1ngs/adar-68e648e59b2c9aec1208b5ef))
+  Findings of EMNLP, 2026. ([arXiv:2510.04617](https://arxiv.org/pdf/2510.04617), [code](https://github.com/NJUNLP/AdaR), [project](https://huggingface.co/collections/DreamW1ngs/adar-68e648e59b2c9aec1208b5ef))
 * How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective
   <br/>
   **Zhejian Lai** & Shimao Zhang & Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang*, Jiajun Chen
